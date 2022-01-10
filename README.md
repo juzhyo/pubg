@@ -1,3 +1,3 @@
 # PubG
 
-A Publications page Generator script
+A **Pub****lications page **G****enerator script
