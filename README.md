@@ -1,3 +1,3 @@
-# PubG
+# pubg
 
-A **Pub**lications page **G**enerator script
+A **pub**lications page **g**enerator script
